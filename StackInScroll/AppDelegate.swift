@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  StackInScroll
-//
-//  Created by Ayur Arkhipov on 09.11.2021.
-//
-
 import UIKit
 
 @main
